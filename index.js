@@ -17,6 +17,6 @@
 // git add README.md   / git add .
 // git commit -m "first commit"
 // git branch -M main
-// git remote add origin https://github.com/coder-yeasin/Authentication-with-mongobd.git
-// git push -u origin main
+// git remote add conected https://github.com/coder-yeasin/Authentication-with-mongobd.git
+// git push -u conected main
 
