@@ -27,8 +27,7 @@ app.use(session({
     mongoUrl: "mongodb://localhost:27017/testsDB",
     collectionName: "sessions"
   })
-}))
-
+}));
 
 app.use(passport.initialize());
 app.use(passport.session());
